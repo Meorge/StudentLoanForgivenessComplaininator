@@ -18,7 +18,6 @@ import logging
 logging.basicConfig(
     format="%(asctime)s %(levelname)s - %(message)s",
     datefmt="%m/%d/%Y %I:%M:%S %p",
-    encoding="utf-8",
     level=logging.INFO,
     handlers=[logging.FileHandler("complain_log.log"), logging.StreamHandler(stdout)],
 )

@@ -1,4 +1,5 @@
 from textwrap import dedent
+
 form_url = "https://forms.hsforms.com/submissions/v3/public/submit/formsnext/multipart/5592731/7b009b60-4421-421c-9430-fbab2db126a4"
 
 education_level_acquired_options = [
@@ -21,28 +22,57 @@ income_over__125k_options = ["Yes", "No"]
 received_pell_grant_options = ["Yes", "No", "Did not attend college"]
 
 frustrations_with_biden_options = [
+    "Student loans? more like student MOANS amiright",
+    "biden kicked my puppy and called me a poop face",
+    "We need to invest in our future - that's what paying for students' education is doing.",
+    "You should mod your 3DS it's really easy actually",
+    "Hello is this the Google lady?",
+    "Joe Biden is too old to be running this country. We need donald Trump back",
+    "magaaa",
+    "I HATE STUDENT LOANS I HATE STUDENT LOANS I HATE STUDENT LOANS I HATE STUDENT LOANS I HATE STU",
+    "So what's this form all about?",
+    "Whatever you do, don't look behind you.",
+    "i like  money",
+    "Ron Desantis my beloved",
+    "donallllllld trump!",
+    "bran don",
+    "If students dont have to pay there loans then who are we going to send off to the middle east to do terrorism for oil?????????",
+    "This is extremely concerning, it reminds me of ligma",
+    "dog",
+    "Who is Biden? I have never heard of this man in my life.",
+    "Hi Judy how are the kids doing ?  Marten has passed on to the Lord now .",
+    "n/a",
+    "[incomprehensible]",
+    "i am going to SCREAM",
+    "As a human with two arms (and hands, attached to the ends of those arms), cancelling the debt of other humans in order to further the progress of human civilization seems extremely suboptimal.",
+    "Hello. Do you have a moment to speak about our Lord and savior, Jesus Christ?",
+    "uwu",
+    "owo",
+    "bidne",
+    "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+    "I love the crunchy taste of pringle",
+    "Here's a fun fact: the largest shark ever was at least two feet long!",
+    "I sure hope you don't have the gene that makes cilantro taste like soap. that would really suck",
+    "stan junkook bts",
+    "USA",
+    "here's a little secret, just for you. i work at the oreo factory. whenever the oreos come down the conveyor belt, i pull them apart and give the white stuf a little lick before sticking them back together. dont tell any body",
+    "Joe Biden says \"malarkey\" too much. That's suspicious.",
+    "Have you heard the news about updog?",
+    "Instead of just paying off everyone's student loans, I believe we should put all the students who want their debt forgiven into a competition, like that one movie Hunger Game. Whoever wins gets to live without the debt. That way at least we'd get some entertainment out of it!",
+    "global warming is a hoacks",
+    ".",
+    "my credit card number is 4556837478672855, the expiration date is 8/2028, the security code is 139",
+    "my ssn is 082-11-4842",
+    "I am playing the bongos. Are you feeling the rhythm?",
+    "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+    "michael jackson goes hee hee and do the funny foot thing",
+    "In honor of Her Majesty Queen Elizabeth II, this form will not be filled out.",
+    "If you are reading this, you are in a coma. Please wake up soon, your family misses you dearly.",
     "It just isn't fair! I had to work like hell for a whole thirty minutes to pay off my $32 tuition back in '53. Kids these days are too entitled!",
-    "They're just going to end up defaulting on the loans anyway, and then the taxpayers will have to foot the bill. This is socialism at its finest!",
-    "I'm all for helping out those in need, but this is just a free ride for lazy people who didn't bother to budget or plan ahead.",
-    "Biden is just catering to his base of young, liberal voters. He doesn't care about the rest of us.",
     "What's next? forgiving mortgage debt? car loans? I bet he'll be doing that next.",
     "This is just another example of the government getting too involved in our lives. Stay out of my pocket, Biden!",
-    "I'm so sick of these entitled kids getting everything handed to them on a silver platter. This country is going to the dogs!",
-    "I don't see why the government should be in the business of forgiving student loan debt. It's not their money to begin with!",
-    "And what about people like me who didn't go to college? Why should we have to pay for other people's mistakes?",
-    "This is just another example of the government wasting our hard-earned tax dollars.",
-    "I'm not against helping people, but there's got to be a better way to do this. This is just a band-aid solution to a much bigger problem.",
-    "I'm frustrated because I think this is a Band-Aid solution to a much bigger problem.",
-    "I'm frustrated because I think this is going to end up costing the taxpayers more money in the long run.",
-    "I'm frustrated because I think this is going to incentivize people to take on more debt than they can afford.",
-    "I'm frustrated because I think this is going to create more problems down the road.",
-    "I'm frustrated because I think this is going to do more harm than good.",
     "Barack Obama is spying on me through my microwave oven. The Biden administration is canceling student loan debt for some people, but not for me. I'm frustrated because I don't think I should have to pay back my student loans. I'm paranoid that the government is going to confiscate my hard-earned money to pay for someone else's education.",
     "QAnon told me that the Deep State is trying to destroy America by cancel student loan debt. They're using our money to fund their socialist agenda. I'm frustrated because I didn't go to college and I don't think I should have to pay for someone else's education.",
-    "I'm frustrated because I think the government is using student loan debt forgiveness as a way to buy votes. They're pandering to a group of people who will probably never pay back their loans anyway. I don't think it's fair that I have to keep paying my loans while other people get a free pass.",
-    "I'm frustrated because I'm a responsible person who paid off my student loans. I don't think it's fair that the government is forgiving loans for people who didn't bother to pay them back. I think it sends the wrong message.",
-    "I'm frustrated with the Biden administration cancelling student loan debt for some people because it feels like they are playing favorites. I worked hard to get my degree and I'm still paying off my loans, so why should someone who didn't have to pay anything get their debt forgiven? It's not fair.",
-    "I'm also worried that this is just a way for the government to control people. If they can forgive someone's debt, they can also force them to do things they don't want to do. This is how they'll get people to comply with their agenda. We can't let them get away with this!",
     "Blorf! Blorf blorf blorf blorf! Blorf, blorf! BLEEP BLORP BLORF!",
     "Blorf! Blorf, blorf! Blorf blorf blorf! BLEEP!",
     "Blorf blorf blorf! Blorf, blorf! BLEEP BLORP BLORF!",
@@ -65,6 +95,17 @@ frustrations_with_biden_options = [
     "MEOW",
     "HONK",
     "WOOF",
+    dedent(
+        """Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec viverra euismod turpis in tempus. Sed non sodales diam. Donec mattis, enim et euismod placerat, urna tortor vestibulum nibh, a venenatis lorem tellus nec purus. Maecenas eget laoreet lectus, ut posuere ligula. Fusce eget porttitor ligula, vitae faucibus enim. Pellentesque at scelerisque magna, vitae ultricies ex. Sed accumsan eros at velit tincidunt, in dictum nisi aliquam. Phasellus aliquam et justo et consequat. Suspendisse et lectus a nisi mattis auctor ac non dolor. Etiam leo nisl, rutrum sed ultrices non, pellentesque id tortor. Nullam mollis erat nec ullamcorper faucibus. Vestibulum ac orci leo. Donec fringilla nulla eget dapibus facilisis. Praesent aliquet placerat diam.
+
+    Quisque posuere risus diam, et consequat tortor semper vel. Vestibulum dignissim mauris id fermentum consequat. Ut imperdiet, nulla id viverra gravida, lacus turpis vulputate risus, a maximus nibh orci quis augue. Donec consectetur diam ac lacus luctus, sed eleifend nisi sodales. Vestibulum eu enim in ante tincidunt posuere vel non sapien. Maecenas non eleifend dolor. Integer posuere maximus lectus, vel imperdiet felis posuere scelerisque. Fusce ac iaculis purus. Aenean suscipit sed velit id tincidunt. Sed mattis tristique auctor. Sed at rhoncus turpis. Donec maximus nisi laoreet, faucibus mi quis, tempus sem. Proin sit amet dui hendrerit, rutrum neque vitae, maximus massa. Duis tincidunt a sem sed efficitur.
+
+    Suspendisse pellentesque sapien ac arcu dapibus, iaculis sollicitudin tellus rutrum. Cras porta, nunc a pulvinar auctor, nisl lectus ultricies ipsum, at vehicula dolor enim eu ligula. Etiam pellentesque efficitur ante, quis consectetur nisi. Morbi gravida gravida magna a convallis. In et porta nisl. Duis interdum bibendum nibh ut auctor. Donec laoreet vehicula porttitor. Phasellus faucibus tortor at eros dapibus ultricies. Mauris rutrum felis at nunc mollis, ut vestibulum sem ultricies. Donec ut faucibus eros. Quisque ac porta ex. Cras in aliquet dui.
+
+    Suspendisse et nisi arcu. Curabitur turpis erat, aliquet ut purus posuere, feugiat ornare elit. Fusce tempus elit eu ipsum finibus laoreet. Nulla id arcu nisi. Mauris non odio sit amet quam scelerisque lobortis. Nulla facilisi. Nunc id ipsum ut felis varius dignissim vel nec erat. Etiam viverra ornare augue. Integer placerat commodo placerat. Donec in pharetra dolor. Pellentesque sollicitudin malesuada risus, vitae tincidunt elit finibus ac. Vestibulum vehicula tincidunt leo, ut porttitor mauris imperdiet sed. Vivamus lacinia commodo viverra. Duis neque leo, tincidunt a suscipit vitae, posuere at magna. Aenean in scelerisque neque, eget dictum erat.
+
+    Nam maximus tortor augue, quis accumsan nunc efficitur vitae. Pellentesque in auctor diam. Nam viverra nulla ac arcu congue, ut dapibus erat condimentum. Mauris diam lacus, faucibus sit amet mollis vel, mattis at ante. Proin non aliquet ipsum. Donec mollis diam vitae enim laoreet vulputate. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Sed ut malesuada risus, et dapibus mi. Nulla eget augue tristique, dapibus nisi quis, facilisis sem. Ut egestas dui vitae eleifend facilisis. Cras et nunc a leo iaculis blandit. Fusce eu aliquet ligula. Aliquam id massa felis. Pellentesque ultricies auctor lorem, eu ullamcorper orci suscipit eget."""
+    ),
     dedent(
         """Somebody once told me the world is gonna roll me
     I ain't the sharpest tool in the shed
@@ -212,4 +253,18 @@ state_options = [
     "West Virginia",
     "Wisconsin",
     "Wyoming",
+
+    "Solid",
+    "Liquid",
+    "Gas",
+    "Plasma",
+
+    "eternal rage",
+    "sadness",
+    "grief",
+    "elation",
+    "joy",
+    "confusion",
+    "anger",
+    "sprealedy"
 ]
